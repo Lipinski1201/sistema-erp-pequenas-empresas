@@ -28,8 +28,8 @@ Sistema ERP (Enterprise Resource Planning) desenvolvido como Trabalho de Conclus
 🟡 **Em Desenvolvimento** - Portfólio I (Julho-Outubro 2025)
 
 ## 👨‍💻 Autor
-**[Seu Nome]**  
-Engenharia de Software - [Nome da Faculdade]  
+**Gustavo Lipinski**  
+Engenharia de Software - Universidade católica de Santa Catarina Joinville
 TCC - 2025
 
 ## 📄 Licença
